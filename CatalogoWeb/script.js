@@ -1,5 +1,5 @@
-// URL base de la API - cambia esto por la URL real de tu API
-const API_URL = "http://localhost:5171/api";
+// URL base de la API
+const API_URL = "https://api-git-master-pablos-projects-4849ceb5.vercel.app";
 
 // Cargar datos cuando se carga la página
 document.addEventListener('DOMContentLoaded', async () => {

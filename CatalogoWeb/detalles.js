@@ -1,5 +1,5 @@
 // URL base de la API
-const API_URL = "http://localhost:5171/api";
+const API_URL = "https://api-git-master-pablos-projects-4849ceb5.vercel.app/";
 
 // Función para obtener parámetros de la URL
 function obtenerParametroURL(nombre) {
